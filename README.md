@@ -49,6 +49,7 @@ Licensing, Author, Acknowledgements
 
 Credits must be given to Udacity for the starter codes and Starbucks for provding the data used by this project.
 
-5. Blog Website
+# Blog Website
 A blog has been published in this link below,
+https://medium.com/@fuatkara94/who-gets-the-starbucks-coffee-the-most-6d31ed6bf36f
 
