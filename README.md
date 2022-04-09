@@ -48,3 +48,7 @@ The main findings of the code can be found here
 Licensing, Author, Acknowledgements
 
 Credits must be given to Udacity for the starter codes and Starbucks for provding the data used by this project.
+
+5. Blog Website
+A blog has been published in this link below,
+
